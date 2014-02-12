@@ -62,6 +62,7 @@ GLFW bundles a number of dependencies in the `deps/` directory.
 
 ## Changelog
 
+ - Added `glfwSetWindowIcons` for setting window icons
  - Removed support for LCC and Borland C++
  - Bugfix: `glfwSetTime` silently accepted invalid values
  - [WGL] Bugfix: The context flags debug bit was not set for OpenGL ES
@@ -168,6 +169,7 @@ skills.
  - Braden Pellett
  - Arturo J. Pérez
  - Cyril Pichard
+ - Orson Peters
  - Pieroman
  - Jorge Rodriguez
  - Ed Ropple
