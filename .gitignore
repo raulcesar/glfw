@@ -22,6 +22,7 @@ cmake_install.cmake
 cmake_uninstall.cmake
 
 # Generated files
+glfw-build/
 docs/Doxyfile
 docs/html
 docs/warnings.txt
